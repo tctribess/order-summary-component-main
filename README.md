@@ -2,7 +2,7 @@
 
 Componente Resumo de um Pedido.
 
-Desafio proposto pela plataforma <a href="https://www.frontendmentor.io/">[Frontend Mentor]</a><br>
+Desafio proposto pela plataforma <a href="https://www.frontendmentor.io/">[Frontend Mentor]</a>
   
   <i>O desafio é construir um componente do cartão de resumo de pedidos e fazê-lo o mais parecido com o design proposto</i> :hammer:
   
