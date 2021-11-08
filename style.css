@@ -2,6 +2,9 @@
 
 body {
     background: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    width: 1440px;
 }
 
 /*Falta incluir 1 cor no background - radius-gradiente*/
